@@ -1,2 +1,3 @@
 # api-de-games-docs
-documentaçõa
+documentaçâo
+aprendendo a  escrever documentação
